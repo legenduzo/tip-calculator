@@ -1,0 +1,2 @@
+rootProject.name = "Codelabs Tip Calculator"
+include ':app'
